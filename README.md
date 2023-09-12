@@ -45,5 +45,13 @@
       height="40"
     />
   </a>
-  
+
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://nodejs.org/static/images/logo-hexagon-card.png"
+      alt="javaScript"
+      width="40"
+      height="40"
+    />
+  </a>
 </p>
